@@ -27,9 +27,9 @@ python-dateutil==2.8.1
 pytz==2020.1
 PyYAML==5.3.1
 regex==2020.10.28
-requests==2.31.0
+requests==2.32.2
 sacremoses==0.0.43
-scikit-learn==1.0.1
+scikit-learn==1.5.0
 scipy==1.11.1
 sentencepiece==0.1.94
 six==1.15.0
@@ -39,5 +39,5 @@ torch==1.13.1
 tqdm==4.66.3
 transformers==4.38.0
 typing-extensions==3.7.4.3
-urllib3==1.26.18
+urllib3==1.26.19
 yarl==1.6.2
